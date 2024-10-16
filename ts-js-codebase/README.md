@@ -1,0 +1,1 @@
+This folder contains a collection of TypeScript and JavaScript code, including modules, snippets, and projects. It showcases core programming concepts, modern features, and practical implementations for web development.
