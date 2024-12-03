@@ -1,0 +1,12 @@
+.Success
+{
+    color:aqua;
+    font-family: cursive;
+    font-size:larger;
+}
+.Failure
+{
+    color:blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
