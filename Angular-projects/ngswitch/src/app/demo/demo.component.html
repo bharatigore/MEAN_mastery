@@ -1,0 +1,7 @@
+<div [ngSwitch]="BatchName">
+    <div *ngSwitchCase ="'PPA'">you select PPA batch</div>
+    <div *ngSwitchCase ="'LB'"> you select LB batch</div>
+    <div *ngSwitchCase ="'Angular'">you select WEb development batch</div>
+    <div *ngSwitchCase="'Python'"> you select python batch</div>  
+   <div  *ngSwitchDefault="''">There is no such BatchName</div>
+  </div>
